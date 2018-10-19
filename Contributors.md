@@ -7,6 +7,7 @@
 Arnel Forbes
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
 - [Abhishek-verma](https://github.com/abhishek-verma)
+- [Patrick Towey](https://github.com/patricksounds)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [Deepak Sood](https://github.com/deepaksood619)
 - [Daniel Yusry](https://github.com/DanielYuo)
